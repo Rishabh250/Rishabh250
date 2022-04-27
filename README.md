@@ -1,8 +1,8 @@
-Hi 👋 My name is Rishabh Bansal<br>
-Flutter Developer<br><br>
+<h1>Hi 👋 My name is Rishabh Bansal</h1>
+<h2>Flutter Developer</h2><br><br>
 🌍  I'm based in Bulandshahr, Uttar Pradesh, India<br>
 ✉️  You can contact me at [rishu25bansal@gmail.com](mailto:rishu25bansal@gmail.com)<br> 
-🧠  I'm learning NodeJS<br>
+🧠  I'm learning NodeJS<br><br>
 
 <a href="https://www.github.com/Rishabh250" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Rishabh250?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
