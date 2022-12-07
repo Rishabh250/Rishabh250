@@ -1,5 +1,5 @@
 <h1>Hi 👋 My name is Rishabh Bansal</h1>
-<h2>Flutter & MERN Stack Developer</h2><br><br>
+<h2>Flutter Developer</h2><br><br>
 🌍  I'm based in Bulandshahr, Uttar Pradesh, India<br>
 ✉️  You can contact me at rishu25bansal@gmail.com<br> 
 🧠  Learning MERN Stack<br><br>
